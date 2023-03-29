@@ -1,1 +1,1 @@
-### repositorio com infos da campinho
+### repositório com infos da campinho
