@@ -7,7 +7,7 @@
 | ![people](https://github.com/tamaracosta.png?size=100)                 | [Tamara](http://github.com/Adaylon)               |
 | ![ people](https://github.com/jjullimayanne.png?size=100)              | [Julli](http://github.com/jjullimayanne)          |
 | ![ people](https://github.com/AbnerSantosss.png?size=100)              | [Abner](http://github.com/AbnerSantosss)          |
-| ![ people](https://github.com/jackelinenascimento.png?size=100)        | [Jackie](http://github.com/AbnerSantosss)         |
+| ![ people](https://github.com/jackelinenascimento.png?size=100)        | [Jackie](https://github.com/jackelinenascimento)|
 
 
 
